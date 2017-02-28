@@ -9,9 +9,9 @@
 ###Final Result
 
 ##Lanuages Used
-**HTML**[html5](html5.png)<img src="html5.png" height="40">
-**CSS**[css3](css3.png)<img src="css3.png" height="40">
-**JavaScript**[javascript](jslogo.png)<img src="jslogo.png" height="40">
+**HTML**[html5](html5.png)<img src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/html5.png" height="40">
+**CSS**[css3](css3.png)<img src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/css3.png" height="40">
+**JavaScript**[javascript](jslogo.png)<img src="jhttps://raw.githubusercontent.com/tkswann2/tech-logos/master/jslogo.png" height="40">
 
 ###How to run (Node must be installed on your machine):
 git clone https://github.com/ellisthomas/dynamic-cards.git
