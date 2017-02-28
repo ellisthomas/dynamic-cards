@@ -14,6 +14,7 @@
 [javascript](jslogo.png)<img src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/jslogo.png" height="40">
 
 ###How to run (Node must be installed on your machine):
+```
 git clone https://github.com/ellisthomas/dynamic-cards.git
 npm install http-server -g
 http-server -p 8080
