@@ -1,7 +1,7 @@
 body {
 	/*background-color: firebrick;*/
 	background-image: url("https://coderdojo.com/wp-content/uploads/2015/09/Coding.jpg");
-	background-repeat: no-repeat;
+	/*background-repeat: no-repeat;*/
 	background-size: cover;
 	position: relative;
 	/*opacity: 0.9;*/
@@ -74,8 +74,9 @@ button:active {
 .cardBox img{
 	height: 200px;
 	width: 200px;
+  margin-top: -100px;
 	margin: 5px 7px 5px 5px;
-	padding-top: 20px;
+	/*padding-top: 20px;*/
 }
 
 .cardBox{
