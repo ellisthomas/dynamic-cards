@@ -1,6 +1,6 @@
-#Dynamic Cards
+# Dynamic Cards
 
-###Description
+### Description
 
 1.Create an HTML page that contains a text area and a button labeled Create.
 2.When the user enters in text into the text area and then clicks the create button, create a new card element in the DOM. You decide the height/width of the card.
@@ -14,7 +14,7 @@
 [](css3.png)<img src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/css3.png" height="40">
 [](jslogo.png)<img src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/jslogo.png" height="40">
 
-###How to run (Node must be installed on your machine):
+### How to run (Node must be installed on your machine):
 ```
 git clone https://github.com/ellisthomas/dynamic-cards.git
 cd dynamic cards
@@ -25,5 +25,5 @@ http-server -p 8080
 This will show in your browser at:
 `http://localhost:8080`
 
-###Contributors
+### Contributors
 [Ellis Thomas](https://github.com/ellisthomas)
